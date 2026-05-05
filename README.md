@@ -1,1 +1,0 @@
-# aki-seven.github.io
