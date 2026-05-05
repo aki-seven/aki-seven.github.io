@@ -1,0 +1,202 @@
+1:"$Sreact.fragment"
+3:I[339756,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"default"]
+4:I[837457,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"default"]
+6:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"ViewportBoundary"]
+b:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"MetadataBoundary"]
+d:I[168027,[],"default"]
+:HL["/_next/static/chunks/93ac2d54f71ec8d4.css","style"]
+:HL["/_next/static/chunks/d20e0f0702cef329.css","style"]
+:HL["/_next/static/chunks/d588c598996efe03.css","style"]
+:HL["/_next/static/chunks/eef662fdc50843a7.css","style"]
+:HL["/_next/static/chunks/b3a7f4834154c9dc.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"GDBuNJAWTRCx0uNit1m2c","c":["","blog","pages"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","pages","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/93ac2d54f71ec8d4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/d20e0f0702cef329.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/d588c598996efe03.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/eef662fdc50843a7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/b3a7f4834154c9dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/5656172dc71047a7.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/8a07e6fd7e614a7b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/93ec8c0081dfd305.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/e14f262a58820f67.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/2079049d5abbbd3d.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/76706631d353b898.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+f:I[530824,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"Providers"]
+10:I[273323,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"Column"]
+11:I[682990,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"default"]
+12:I[621971,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"RevealFx"]
+13:I[394412,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"Background"]
+14:I[521247,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"ClientFlex"]
+15:I[402971,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"Header"]
+e:T6c4,(function() {
+              try {
+                const root = document.documentElement;
+                const defaultTheme = 'system';
+				
+				
+              // Set defaults from config
+              const config = {"brand":"indigo","accent":"blue","neutral":"gray","solid":"contrast","solid-style":"flat","border":"playful","surface":"translucent","transition":"all","scaling":"100","viz-style":"gradient"};
+              
+              // Apply default values
+              Object.entries(config).forEach(([key, value]) => {
+                root.setAttribute('data-' + key, value);
+              });
+              
+              // Resolve theme
+              const resolveTheme = (themeValue) => {
+                if (!themeValue || themeValue === 'system') {
+                  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+                }
+                return themeValue;
+              };
+              
+              // Apply saved theme
+              const savedTheme = localStorage.getItem('data-theme');
+              const resolvedTheme = resolveTheme(savedTheme);
+              root.setAttribute('data-theme', resolvedTheme);
+              
+              // Apply any saved style overrides
+              const styleKeys = Object.keys(config);
+              styleKeys.forEach(key => {
+                const value = localStorage.getItem('data-' + key);
+                if (value) {
+                  root.setAttribute('data-' + key, value);
+                }
+              });
+            } catch (e) {
+              console.error('Failed to initialize theme:', e);
+              document.documentElement.setAttribute('data-theme', 'dark');
+            }
+          })();
+        2:["$","html",null,{"ref":"$undefined","className":"display-flex position-relative min-width-0 fill-width geist_d82bf9db-module__Ifi_Dq__variable geist_250f8b91-module__B2UTAq__variable geist_4edd9b70-module__GC7HaW__variable geist_mono_90672d7c-module__qcY_rq__variable ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"$undefined","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"suppressHydrationWarning":true,"lang":"en","children":[["$","head",null,{"children":["$","script",null,{"id":"theme-init","dangerouslySetInnerHTML":{"__html":"$e"}}]}],["$","$Lf",null,{"children":["$","$L10",null,{"as":"body","suppressHydrationWarning":true,"background":"page","fillWidth":true,"style":{"minHeight":"100vh","background":"linear-gradient(135deg, #000000, #0a0a0a)"},"margin":"0","padding":"0","horizontal":"center","children":[["$","$L11",null,{}]," ",["$","$L12",null,{"fill":true,"position":"absolute","style":{"zIndex":1},"children":["$","$L13",null,{"mask":{"x":50,"y":0,"radius":100,"cursor":false},"gradient":{"display":false,"opacity":100,"x":50,"y":60,"width":100,"height":50,"tilt":0,"colorStart":"accent-background-strong","colorEnd":"page-background"},"dots":{"display":true,"opacity":40,"size":"2","color":"brand-background-strong"},"grid":{"display":false,"opacity":100,"color":"neutral-alpha-medium","width":"0.25rem","height":"0.25rem"},"lines":{"display":false,"opacity":100,"size":"16","thickness":1,"angle":45,"color":"neutral-alpha-weak"}}]}],["$","$L14",null,{"ref":"$undefined","cursor":"$undefined","xl":"$undefined","l":"$undefined","m":"$undefined","s":{"hide":true},"xs":"$undefined","style":"$undefined","hide":"$undefined","fillWidth":true,"minHeight":"16"}],["$","$L15",null,{}],["$","$L14",null,{"ref":"$undefined","cursor":"$undefined","xl":"$undefined","l":"$undefined","m":"$undefined","s":"$undefined","xs":"$undefined","style":{"backdropFilter":"blur(20px)","WebkitBackdropFilter":"blur(30px)","background":"rgba(0, 0, 0, 0.35)","boxShadow":"inset 0 1px 0 rgba(255,255,255,0.08)","backgroundImage":"\n\t\t\t  linear-gradient(\n\t\t\t\t120deg,\n\t\t\t\trgba(255,255,255,0.08) 0%,\n\t\t\t\trgba(255,255,255,0.02) 40%,\n\t\t\t\ttransparent 60%\n\t\t\t  )\n\t\t\t","zIndex":1,"pointerEvents":"none"},"hide":"$undefined","position":"absolute","fill":true}],["$","div",null,{"ref":"$undefined","className":"display-flex position-relative p-l flex-1 justify-center min-width-0 fill-width z-index-2 ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"$undefined","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"children":"$L16"}],"$L17","$L18"]}]}]]}]
+19:I[1166,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"RouteGuard"]
+1a:I[778454,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"Row"]
+1b:I[624379,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"SmartLink"]
+1c:I[298229,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"IconButton"]
+1d:I[687487,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"default"]
+1e:I[479520,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],""]
+1f:I[145250,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"Avatar"]
+20:I[398382,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"Media"]
+22:I[448588,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"ShareSection"]
+23:I[311451,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"Line"]
+24:I[89532,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"Grid"]
+25:I[814360,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"default"]
+16:["$","div",null,{"ref":"$undefined","className":"display-flex position-relative justify-center min-width-0 fill-width ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"var(--static-space-0)","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"children":["$","$L19",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L10",null,{"as":"section","fill":true,"center":true,"paddingBottom":"160","children":[["$","span",null,{"className":"font-display font-strong font-xl mb-s","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"404"}],["$","h1",null,{"className":"font-display font-default font-xs neutral-on-background-strong mb-l","style":{"textAlign":"$undefined","textWrap":"balance"},"children":"Page Not Found"}],["$","span",null,{"className":"neutral-on-background-weak","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"The page you are looking for does not exist."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]
+17:["$","div",null,{"ref":"$undefined","className":"display-flex position-relative min-width-0 fill-width z-index-3 ","style":{"maxWidth":"$undefined","minWidth":"$undefined","minHeight":"$undefined","maxHeight":"$undefined","width":"$undefined","height":"$undefined","aspectRatio":"$undefined","textAlign":"$undefined","cursor":"$undefined"},"children":["$","$L1a",null,{"as":"footer","fillWidth":true,"padding":"8","horizontal":"center","s":{"direction":"column"},"children":[["$","$L1a",null,{"className":"Footer-module-scss-module__DkSkqG__mobile","maxWidth":"m","paddingY":"8","paddingX":"16","gap":"4","horizontal":"start","vertical":"center","s":{"direction":"column","horizontal":"center","align":"center"},"children":[["$","span",null,{"className":"font-body font-default font-s neutral-on-background-strong","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":[["$","$L1b",null,{"href":"https://once-ui.com/products/magic-portfolio","children":"Once UI"}],["$","span",null,{"className":"neutral-on-background-weak","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":["© ",2026," · "]}],["$","span",null,{"className":"px-4","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":[" ","Akhilesh Singh Choudhary"," · "]}],["$","span",null,{"className":"neutral-on-background-weak","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":["$","$L1b",null,{"href":"/about","children":" $whoami ·"}]}]]}],["$","$L1a",null,{"gap":"4","children":[["$","$L1c","GitHub",{"href":"https://github.com/aki-seven","icon":"github","tooltip":"GitHub","size":"s","variant":"ghost"}],["$","$L1c","LinkedIn",{"href":"https://www.linkedin.com/in/akhilesh-singh-choudhary-628536191/","icon":"linkedin","tooltip":"LinkedIn","size":"s","variant":"ghost"}],["$","$L1c","TryHackMe",{"href":"https://tryhackme.com/p/aki7","icon":"thm","tooltip":"TryHackMe","size":"s","variant":"ghost"}]]}]]}],["$","$L1a",null,{"height":"80","hide":true,"s":{"hide":false}}]]}]}]
+18:["$","$L14",null,{"ref":"$undefined","cursor":"$undefined","xl":"$undefined","l":"$undefined","m":"$undefined","s":"$undefined","xs":"$undefined","style":{"position":"fixed","bottom":"20px","right":"20px","zIndex":99999,"pointerEvents":"auto"},"hide":"$undefined","children":["$","$L1d",null,{}]}]
+26:T8b9,{/* Test comment */}
+---
+title: "Create, edit and delete blog posts"
+summary: "Create, edit and delete posts in the blog section of your Magic Portfolio."
+publishedAt: "2025-03-17"
+tag: "Magic Portfolio"
+---
+
+## Manage posts
+
+You can create, edit and delete posts by adding, modifying or removing `*.mdx` files in the `src/app/blog/posts` directory.
+
+## Frontmatter
+
+The frontmatter is used to set the post's metadata: title, description, image, and tags. It's used in the post's page and in meta- and open graph tags.
+
+<CodeBlock
+    marginBottom="16"
+    codes={[
+      {
+        code:
+`---
+title: "Arriving to a new milestone in my career"
+publishedAt: "2024-04-08"
+image: "/images/gallery/img-02.jpg"
+summary: "Every career is a journey, filled with challenges, growth, and those significant moments that mark a shift in our path."
+tag: "Journal"
+---`,
+        language: "tsx",
+        label: "src/app/blog/posts/post-1.mdx"
+      }
+    ]}
+/>
+
+## MDX syntax
+
+You can use MDX to write the content of your posts. It helps you write rich and dynamic content with minimal code. Some MDX elements will be automatically transformed to Once UI components to integrate better in the design and add additional functionality.
+
+## Custom components
+
+You can use custom components in MDX files, but you need to import them first in the `src/components/mdx.tsx` file.
+
+<CodeBlock
+    marginBottom="16"
+    highlight="11-12"
+    codes={[
+      {
+        code:
+`const components = {
+    p: createParagraph as any,
+    h1: createHeading(1) as any,
+    h2: createHeading(2) as any,
+    h3: createHeading(3) as any,
+    h4: createHeading(4) as any,
+    h5: createHeading(5) as any,
+    h6: createHeading(6) as any,
+    img: createImage as any,
+    a: CustomLink as any,
+    Table,
+    CodeBlock,
+};`,
+        language: "tsx",
+        label: "src/components/mdx.tsx"
+      }
+    ]}
+/>
+
+As you can see, the `Table` and `CodeBlock` components are already imported and available for use. You can add more by simply importing them to this file and passing them to the `components` object.
+
+## Hot reload
+
+Hot reload of MDX files is currently not supported, but we're working on it.5:["$","$L1a",null,{"fillWidth":true,"children":[["$","$L1a",null,{"maxWidth":12,"m":{"hide":true}}],["$","$L1a",null,{"fillWidth":true,"horizontal":"center","children":["$","$L10",null,{"as":"section","maxWidth":"m","horizontal":"center","gap":"l","paddingTop":"24","children":[["$","$L1e",null,{"id":"schema-blogPosting-/blog/pages","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"url\":\"https://aki-seven.github.io/blog/pages\",\"sameAs\":[],\"headline\":\"Enable or disable pages for your portfolio\",\"description\":\"Magic Portfolio's RouteGuard component takes care of conditionally rendering pages based on your settings.\",\"image\":\"https://aki-seven.github.io/images/gallery/horizontal-2.jpg\",\"datePublished\":\"2025-04-22\",\"dateModified\":\"2025-04-22\",\"author\":{\"@type\":\"Person\",\"name\":\"Akhilesh Singh Choudhary\",\"url\":\"https://aki-seven.github.io/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://aki-seven.github.io/images/avatar.jpg\"}}}"}}],["$","$L10",null,{"maxWidth":"s","gap":"16","horizontal":"center","align":"center","children":[["$","$L1b",null,{"href":"/blog","children":["$","span",null,{"className":"font-label font-strong font-m","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"Blog"}]}],["$","span",null,{"className":"font-body font-default font-xs neutral-on-background-weak mb-12","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"April 22, 2025"}],["$","h1",null,{"className":"font-display font-strong font-m neutral-on-background-strong","style":{"textAlign":"$undefined","textWrap":"balance"},"children":"Enable or disable pages for your portfolio"}],""]}],["$","$L1a",null,{"marginBottom":"32","horizontal":"center","children":["$","$L1a",null,{"gap":"16","vertical":"center","children":[["$","$L1f",null,{"size":"s","src":"/images/avatar.jpg"}],["$","span",null,{"className":"font-label font-default font-m brand-on-background-weak","style":{"textAlign":"$undefined","textWrap":"$undefined"},"children":"Akhilesh Singh Choudhary"}]]}]}],["$","$L20",null,{"src":"/images/gallery/horizontal-2.jpg","alt":"Enable or disable pages for your portfolio","aspectRatio":"16/9","priority":true,"sizes":"(min-width: 768px) 100vw, 768px","border":"neutral-alpha-weak","radius":"l","marginTop":"12","marginBottom":"8"}],["$","$L10",null,{"as":"article","maxWidth":"s","children":"$L21"}],["$","$L22",null,{"title":"Enable or disable pages for your portfolio","url":"https://aki-seven.github.io/blog/pages"}],["$","$L10",null,{"fillWidth":true,"gap":"40","horizontal":"center","marginTop":"40","children":[["$","$L23",null,{"maxWidth":"40"}],["$","h2",null,{"className":"font-heading font-strong font-xl mb-24","style":{"textAlign":"$undefined","textWrap":"$undefined"},"id":"recent-posts","children":"Recent posts"}],["$","$L24",null,{"columns":"2","s":{"columns":1},"fillWidth":true,"marginBottom":"40","gap":"16","children":[["$","$L25","blog",{"post":{"metadata":{"title":"","subtitle":"","publishedAt":"$undefined","summary":"","image":"","images":[],"tag":[],"team":[],"link":""},"slug":"blog","content":"$26"},"thumbnail":true,"direction":"column"}],"$L27"]}]]}],"$L28"]}]}],"$L29"]}]
+2b:I[988654,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"ScrollToHash"]
+2c:I[605649,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"HeadingNav"]
+2a:T465,
+## About
+
+Magic Portfolio is a comprehensive, MDX-based, SEO-friendly, responsive portfolio template built with Once UI and Next.js.
+
+## License
+
+Magic Portfolio is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You can only use it for personal purposes, and you must attribute the original work. The attribution is added in the footer by default, but you can place it in any other, visible part of your site.
+
+Subscribe to the [Once UI Pro plan](https://once-ui.com/pricing) to extend the license to [Dopler CC](https://once-ui.com/products/magic-portfolio).
+
+## Quick start
+
+Clone the git repository:
+
+<CodeBlock compact marginBottom="16" codes={[
+  {
+    code: "git clone https://github.com/once-ui-system/magic-portfolio.git",
+    language: "bash"
+  }
+]} />
+
+Install the necessary dependencies:
+
+<CodeBlock compact marginBottom="16" codes={[
+  {
+    code: "npm install",
+    language: "bash"
+  }
+]} />
+
+Start the local development server:
+
+<CodeBlock compact marginBottom="16" codes={[
+  {
+    code: "npm run dev",
+    language: "bash"
+  }
+]} />27:["$","$L25","quick-start",{"post":{"metadata":{"title":"Quick start with Magic Portfolio","subtitle":"A comprehensive guide to setting up your professional portfolio in minutes","publishedAt":"2025-04-23","summary":"Magic Portfolio is a comprehensive, MDX-based, SEO-friendly, responsive portfolio template built with Once UI and Next.js.","image":"/images/gallery/horizontal-1.jpg","images":[],"tag":"Magic Portfolio","team":[],"link":""},"slug":"quick-start","content":"$2a"},"thumbnail":true,"direction":"column"}]
+28:["$","$L2b",null,{}]
+29:["$","$L10",null,{"maxWidth":12,"paddingLeft":"40","fitHeight":true,"position":"sticky","top":"80","gap":"16","m":{"hide":true},"children":["$","$L2c",null,{"fitHeight":true}]}]
+2d:I[811052,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"HeadingLink"]
+2e:I[362844,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"InlineCode"]
+2f:I[597784,["/_next/static/chunks/5656172dc71047a7.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js","/_next/static/chunks/76706631d353b898.js"],"CodeBlock"]
+21:[["$","$L2d",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"enable-or-disable-pages","children":"Enable or disable pages"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"textAlign":"$undefined","textWrap":"$undefined","lineHeight":"175%"},"children":["Magic Portfolio's ",["$","$L2e",null,{"children":"RouteGuard"}]," component takes care of conditionally rendering pages based on the ",["$","$L2e",null,{"children":"routes"}]," object in the ",["$","$L2e",null,{"children":"resources/config.js"}]," file."]}],"\n",["$","$L2f",null,{"marginBottom":"16","highlight":"6","codes":[{"code":"const routes = {\n  '/':        true,\n  '/about':   true,\n  '/work':    true,\n  '/blog':    true,\n  '/gallery': false,\n};","language":"tsx","label":"src/app/resources/config.js"}]}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"textAlign":"$undefined","textWrap":"$undefined","lineHeight":"175%"},"children":["The code above will ensure that the ",["$","$L2e",null,{"children":"/gallery"}]," page is not accessible and is not displayed in the navigation."]}],"\n",["$","$L2d",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"add-new-pages","children":"Add new pages"}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"textAlign":"$undefined","textWrap":"$undefined","lineHeight":"175%"},"children":["When creating a new page, it needs to be added to the ",["$","$L2e",null,{"children":"routes"}]," object in the ",["$","$L2e",null,{"children":"resources/config.js"}]," file."]}],"\n",["$","$L2f",null,{"marginBottom":"16","highlight":"6","codes":[{"code":"const routes = {\n  '/':        true,\n  '/about':   true,\n  '/work':    true,\n  '/blog':    true,\n  '/gallery': false,\n  '/music': true,\n};","language":"tsx","label":"src/app/resources/config.js"}]}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"textAlign":"$undefined","textWrap":"$undefined","lineHeight":"175%"},"children":["The code above will ensure that the ",["$","$L2e",null,{"children":"/music"}]," page is accessible. Users will be able to navigate to it after adding it to the navigation menu in the ",["$","$L2e",null,{"children":"components/Header.tsx"}]," file."]}]]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+30:I[27201,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"IconMark"]
+8:null
+c:[["$","title","0",{"children":"Enable or disable pages for your portfolio"}],["$","meta","1",{"name":"description","content":"Magic Portfolio's RouteGuard component takes care of conditionally rendering pages based on your settings."}],["$","meta","2",{"property":"og:title","content":"Enable or disable pages for your portfolio"}],["$","meta","3",{"property":"og:description","content":"Magic Portfolio's RouteGuard component takes care of conditionally rendering pages based on your settings."}],["$","meta","4",{"property":"og:url","content":"https://aki-seven.github.io/blog/pages"}],["$","meta","5",{"property":"og:image","content":"https://aki-seven.github.io/images/gallery/horizontal-2.jpg"}],["$","meta","6",{"property":"og:image:alt","content":"Enable or disable pages for your portfolio"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Enable or disable pages for your portfolio"}],["$","meta","10",{"name":"twitter:description","content":"Magic Portfolio's RouteGuard component takes care of conditionally rendering pages based on your settings."}],["$","meta","11",{"name":"twitter:image","content":"https://aki-seven.github.io/images/gallery/horizontal-2.jpg"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.0d96436b.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L30","13",{}]]

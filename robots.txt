@@ -1,0 +1,3 @@
+User-Agent: *
+
+Sitemap: https://aki-seven.github.io/sitemap.xml
