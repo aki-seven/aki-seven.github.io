@@ -1,22 +1,22 @@
 1:"$Sreact.fragment"
-2:I[273323,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Column"]
-3:I[479520,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],""]
-4:I[624379,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"SmartLink"]
-5:I[778454,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Row"]
-6:I[571045,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"AvatarGroup"]
-7:I[398382,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Media"]
-8:I[811052,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"HeadingLink"]
-9:I[436122,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"List"]
-a:I[626935,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"ListItem"]
-10:I[311451,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Line"]
-11:I[474855,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"ProjectCard"]
-13:I[988654,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"ScrollToHash"]
-14:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
-15:"$Sreact.suspense"
-0:{"buildId":"RgQiTaSmg6q5OyBS1Ko5H","rsc":["$","$1","c",{"children":[["$","$L2",null,{"as":"section","maxWidth":"m","horizontal":"center","gap":"l","children":[["$","$L3",null,{"id":"schema-blogPosting-/work/multi-algorithm-cli-hashing-tool","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"url\":\"https://aki-seven.github.io/work/multi-algorithm-cli-hashing-tool\",\"sameAs\":[],\"headline\":\"Multi-Algorithm CLI Hashing Tool\",\"description\":\"A Python command-line utility supporting multiple hashing algorithms including SHA3-256, Argon2, bcrypt, MD5, and BLAKE3.\",\"image\":\"https://aki-seven.github.io/api/og/generate?title=Multi-Algorithm%20CLI%20Hashing%20Tool\",\"datePublished\":\"2025-11-30\",\"dateModified\":\"2025-11-30\",\"author\":{\"@type\":\"Person\",\"name\":\"Akhilesh Singh Choudhary\",\"url\":\"https://aki-seven.github.io/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://aki-seven.github.io/images/avatar.jpg\"}}}"}}],["$","$L2",null,{"maxWidth":"s","gap":"16","horizontal":"center","align":"center","children":[["$","$L4",null,{"href":"/work","children":["$","span",null,{"className":"font-label font-strong font-m","style":{},"children":"Projects"}]}],["$","span",null,{"className":"font-body font-default font-xs neutral-on-background-weak mb-12","style":{},"children":"November 30, 2025"}],["$","h1",null,{"className":"font-display font-strong font-m neutral-on-background-strong","style":{"textWrap":"balance"},"children":"Multi-Algorithm CLI Hashing Tool"}]]}],["$","$L5",null,{"marginBottom":"32","horizontal":"center","children":["$","$L5",null,{"gap":"16","vertical":"center","children":[["$","$L6",null,{"reverse":true,"avatars":[{"src":"/images/avatar.jpg"}],"size":"s"}],["$","span",null,{"className":"font-label font-default font-m brand-on-background-weak","style":{},"children":[["$","span","0",{"children":[false,["$","$L4",null,{"href":"https://www.linkedin.com/in/akhilesh-singh-choudhary-628536191/","children":"Akhilesh Singh"}]]}]]}]]}]}],["$","$L7",null,{"priority":true,"aspectRatio":"16 / 9","radius":"m","alt":"image","src":"//\"/images/projects/project-01/cover-02.jpg\""}],["$","$L2",null,{"style":{"margin":"auto"},"as":"article","maxWidth":"xs","children":[["$","$L8",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"multi-algorithm-cli-hashing-tool","children":["$","strong",null,{"children":"Multi-Algorithm CLI Hashing Tool"}]}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Developed a ",["$","strong",null,{"children":"Python command-line utility"}]," that supports multiple hashing algorithms including ",["$","strong",null,{"children":"SHA3-256, Argon2, bcrypt, MD5, and BLAKE3"}]," for secure hashing of files and user input."]}],"\n",["$","$L9",null,{"as":"ul","children":["\n",["$","$La",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["Designed to demonstrate the differences between ",["$","strong",null,{"children":"legacy and modern hashing techniques"}],", highlighting their role in ",["$","strong",null,{"children":"password security and data protection"}],"."]}],"\n",["$","$La",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["Implemented a ",["$","strong",null,{"children":"modular algorithm selection system"}],", allowing flexible switching between hashing methods through a single interface."]}],"\n",["$","$La",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["Enabled hashing for both ",["$","strong",null,{"children":"text input and files"}],", making the tool practical for testing and learning real-world use cases."]}],"\n",["$","$La",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["Focused on writing ",["$","strong",null,{"children":"clean, extensible code"}]," to support easy addition of new algorithms."]}],"\n"]}],"\n",["$","blockquote",null,{"children":["\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Focus: ",["$","strong",null,{"children":"Cryptography fundamentals · Secure hashing · Practical CLI tooling"}]]}],"\n"]}],"\n","$Lb","\n","$Lc"]}],"$Ld","$Le"]}],null,"$Lf"]}],"loading":null,"isPartial":false}
+2:I[273323,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Column"]
+3:I[479520,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],""]
+4:I[624379,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"SmartLink"]
+5:I[778454,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Row"]
+6:I[571045,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"AvatarGroup"]
+7:I[398382,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Media"]
+8:I[811052,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"HeadingLink"]
+9:I[436122,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"List"]
+a:I[626935,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"ListItem"]
+10:I[311451,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Line"]
+11:I[474855,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"ProjectCard"]
+14:I[988654,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"ScrollToHash"]
+15:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+0:{"buildId":"EPSqXv66IKQSODn0l_uSm","rsc":["$","$1","c",{"children":[["$","$L2",null,{"as":"section","maxWidth":"m","horizontal":"center","gap":"l","children":[["$","$L3",null,{"id":"schema-blogPosting-/work/multi-algorithm-cli-hashing-tool","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"url\":\"https://aki-seven.github.io/work/multi-algorithm-cli-hashing-tool\",\"sameAs\":[],\"headline\":\"Multi-Algorithm CLI Hashing Tool\",\"description\":\"A Python command-line utility supporting multiple hashing algorithms including SHA3-256, Argon2, bcrypt, MD5, and BLAKE3.\",\"image\":\"https://aki-seven.github.io/api/og/generate?title=Multi-Algorithm%20CLI%20Hashing%20Tool\",\"datePublished\":\"2025-11-30\",\"dateModified\":\"2025-11-30\",\"author\":{\"@type\":\"Person\",\"name\":\"Akhilesh Singh Choudhary\",\"url\":\"https://aki-seven.github.io/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://aki-seven.github.io/images/avatar.jpg\"}}}"}}],["$","$L2",null,{"maxWidth":"s","gap":"16","horizontal":"center","align":"center","children":[["$","$L4",null,{"href":"/work","children":["$","span",null,{"className":"font-label font-strong font-m","style":{},"children":"Projects"}]}],["$","span",null,{"className":"font-body font-default font-xs neutral-on-background-weak mb-12","style":{},"children":"November 30, 2025"}],["$","h1",null,{"className":"font-display font-strong font-m neutral-on-background-strong","style":{"textWrap":"balance"},"children":"Multi-Algorithm CLI Hashing Tool"}]]}],["$","$L5",null,{"marginBottom":"32","horizontal":"center","children":["$","$L5",null,{"gap":"16","vertical":"center","children":[["$","$L6",null,{"reverse":true,"avatars":[{"src":"/images/avatar.jpg"}],"size":"s"}],["$","span",null,{"className":"font-label font-default font-m brand-on-background-weak","style":{},"children":[["$","span","0",{"children":[false,["$","$L4",null,{"href":"https://www.linkedin.com/in/akhilesh-singh-choudhary-628536191/","children":"Akhilesh Singh"}]]}]]}]]}]}],["$","$L7",null,{"priority":true,"aspectRatio":"16 / 9","radius":"m","alt":"image","src":"/images/projects/project-02/1.png"}],["$","$L2",null,{"style":{"margin":"auto"},"as":"article","maxWidth":"xs","children":[["$","$L8",null,{"marginTop":"24","marginBottom":"12","as":"h2","id":"multi-algorithm-cli-hashing-tool","children":["$","strong",null,{"children":"Multi-Algorithm CLI Hashing Tool"}]}],"\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Developed a ",["$","strong",null,{"children":"Python command-line utility"}]," that supports multiple hashing algorithms including ",["$","strong",null,{"children":"SHA3-256, Argon2, bcrypt, MD5, and BLAKE3"}]," for secure hashing of files and user input."]}],"\n",["$","$L9",null,{"as":"ul","children":["\n",["$","$La",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["Designed to demonstrate the differences between ",["$","strong",null,{"children":"legacy and modern hashing techniques"}],", highlighting their role in ",["$","strong",null,{"children":"password security and data protection"}],"."]}],"\n",["$","$La",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["Implemented a ",["$","strong",null,{"children":"modular algorithm selection system"}],", allowing flexible switching between hashing methods through a single interface."]}],"\n",["$","$La",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["Enabled hashing for both ",["$","strong",null,{"children":"text input and files"}],", making the tool practical for testing and learning real-world use cases."]}],"\n",["$","$La",null,{"marginTop":"4","marginBottom":"8","style":{"lineHeight":"175%"},"children":["Focused on writing ",["$","strong",null,{"children":"clean, extensible code"}]," to support easy addition of new algorithms."]}],"\n"]}],"\n",["$","blockquote",null,{"children":["\n",["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Focus: ",["$","strong",null,{"children":"Cryptography fundamentals · Secure hashing · Practical CLI tooling"}]]}],"\n"]}],"\n","$Lb","\n","$Lc"]}],"$Ld","$Le"]}],null,"$Lf"]}],"loading":null,"isPartial":false}
 b:["$","$L8",null,{"marginTop":"24","marginBottom":"12","as":"h3","id":"source-code","children":"Source Code"}]
 c:["$","span",null,{"className":"font-body font-default font-m neutral-on-background-medium mt-8 mb-12","style":{"lineHeight":"175%"},"children":["Explore the full implementation and documentation on GitHub:  ",["$","a",null,{"href":"https://github.com/aki-seven/Hash3r","target":"_blank","rel":"noopener noreferrer","children":"Repository"}]]}]
-12:T435,
+12:T425,
 
 ## **Vulnerable Boot2Root Machine**
 
@@ -32,7 +32,88 @@ Designed and developed a **custom Boot2Root (B2R) machine** to simulate real-wor
 
 ### Source Code
 Explore the full implementation and documentation on GitHub:  Coming Soon!
-[Repository](https://github.com/aki-seven)d:["$","$L2",null,{"fillWidth":true,"gap":"40","horizontal":"center","marginTop":"40","children":[["$","$L10",null,{"maxWidth":"40"}],["$","h2",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-24","style":{"textWrap":"balance"},"children":"Related projects"}],["$","$L2",null,{"fillWidth":true,"gap":"xl","marginBottom":"40","paddingX":"l","children":[["$","$L11","vulnerable-boot2root-machine",{"priority":true,"href":"/work/vulnerable-boot2root-machine","images":["//\"/images/projects/project-01/cover-02.jpg\""],"title":"Vulnerable Boot2Root Machine","description":"A B2R machine implemented to teach enumeration & ssrf basics as well as exploiting linux binaries to get out of a restricted shell.","content":"$12","avatars":[{"src":"/images/avatar.jpg"}],"link":""}],["$","$L11","python-security-toolkit",{"priority":true,"href":"/work/python-security-toolkit","images":["//\"/images/projects/project-01/cover-02.jpg\""],"title":"Python Security Toolkit","description":"A collection of Python-based security tools simulating offensive security techniques, including a reverse shell and network attack simulations.","content":"\r\n\r\n## **Python Security Toolkit**\r\n\r\nDeveloped a collection of **Python-based security tools** to simulate and analyze real-world cyber attack scenarios within a **controlled lab environment**.\r\n\r\n- Built scripts to simulate common network attack techniques such as **traffic interception, device discovery, and packet analysis**, helping understand how systems can be exploited.\r\n- Utilized **Scapy** for low-level packet crafting and inspection, enabling hands-on exploration of how data flows across networks.\r\n- Created a **basic reverse shell** for controlled remote command execution during testing scenarios.\r\n- Implemented simple **traffic analysis logic** to identify unusual or suspicious network behavior during simulations.\r\n\r\n> Focus: **Cybersecurity fundamentals · Network behavior · Practical attack simulation**\r\n\r\n\r\n### Source Code\r\nExplore the full implementation and documentation on GitHub:  [Repository](https://github.com/aki-seven/python-scripts)","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]]}]]}]
-e:["$","$L13",null,{}]
-f:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
-16:null
+[Repository](https://github.com/aki-seven)13:T91a,
+
+## **Python Security Toolkit**
+
+Developed a collection of **Python-based security tools** to simulate and analyze real-world cyber attack scenarios within a **controlled lab environment**.
+
+- Built scripts to simulate common network attack techniques such as **traffic interception, device discovery, and packet analysis**, helping understand how systems can be exploited.
+- Utilized **Scapy** for low-level packet crafting and inspection, enabling hands-on exploration of how data flows across networks.
+- Created a **basic reverse shell** for controlled remote command execution during testing scenarios.
+- Implemented simple **traffic analysis logic** to identify unusual or suspicious network behavior during simulations.
+
+> Focus: **Cybersecurity fundamentals · Network behavior · Practical attack simulation**
+
+
+### Source Code
+Explore the full implementation and documentation on GitHub:  [Repository](https://github.com/aki-seven/python-scripts)
+
+<div
+  style={{
+    display: "flex",
+    gap: "1rem",
+  }}
+>
+  <div
+    style={{
+      flex: 1,
+      aspectRatio: "16/9",
+      overflowY: "auto",
+      borderRadius: "var(--radius-m)",
+      border: "1px solid var(--neutral-alpha-medium)",
+      scrollbarWidth: "none",
+      msOverflowStyle: "none",
+    }}
+    className="hide-scrollbar"
+  >
+    <img
+      src="/images/projects/project-01/keylogger.png"
+      alt="Keylogger output"
+      style={{ width: "100%", display: "block" }}
+    />
+  </div>
+
+  <div
+    style={{
+      flex: 1,
+      aspectRatio: "16/9",
+      overflowY: "auto",
+      borderRadius: "var(--radius-m)",
+      border: "1px solid var(--neutral-alpha-medium)",
+      scrollbarWidth: "none",
+      msOverflowStyle: "none",
+    }}
+    className="hide-scrollbar"
+  >
+    <img
+      src="/images/projects/project-01/mac_changer.png"
+      alt="MAC changer"
+      style={{ width: "100%", display: "block" }}
+    />
+  </div>
+</div>
+
+<div
+  style={{
+    marginTop: "1rem",
+    aspectRatio: "16/9",
+    overflowY: "auto",
+    borderRadius: "var(--radius-m)",
+    border: "1px solid var(--neutral-alpha-medium)",
+    scrollbarWidth: "none",
+    msOverflowStyle: "none",
+  }}
+  className="hide-scrollbar"
+>
+  <img
+    src="/images/projects/project-01/packet_sniffer.png"
+    alt="Packet sniffer"
+    style={{ width: "100%", display: "block" }}
+  />
+</div>
+
+d:["$","$L2",null,{"fillWidth":true,"gap":"40","horizontal":"center","marginTop":"40","children":[["$","$L10",null,{"maxWidth":"40"}],["$","h2",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-24","style":{"textWrap":"balance"},"children":"Related projects"}],["$","$L2",null,{"fillWidth":true,"gap":"xl","marginBottom":"40","paddingX":"l","children":[["$","$L11","vulnerable-boot2root-machine",{"priority":true,"href":"/work/vulnerable-boot2root-machine","images":["/images/fix.png"],"title":"Vulnerable Boot2Root Machine","description":"A B2R machine implemented to teach enumeration & ssrf basics as well as exploiting linux binaries to get out of a restricted shell.","content":"$12","avatars":[{"src":"/images/avatar.jpg"}],"link":""}],["$","$L11","python-security-toolkit",{"priority":true,"href":"/work/python-security-toolkit","images":["/images/projects/project-01/1.png","/images/projects/project-01/2.png"],"title":"Python Security Toolkit","description":"A collection of Python-based security tools simulating offensive security techniques, including a reverse shell and network attack simulations.","content":"$13","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]]}]]}]
+e:["$","$L14",null,{}]
+f:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null

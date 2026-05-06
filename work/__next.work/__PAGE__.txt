@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[273323,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Column"]
-3:I[479520,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],""]
-4:I[474855,["/_next/static/chunks/75f8d242043fa745.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"ProjectCard"]
-a:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
-b:"$Sreact.suspense"
-5:T42c,
+2:I[273323,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Column"]
+3:I[479520,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],""]
+4:I[474855,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"ProjectCard"]
+b:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+5:T41a,
 
 ## **IA-Intel: Intelligent Automated Enumeration Engine**
 
@@ -22,7 +22,7 @@ Developed a collection of **Python-based, configuration-driven security tools** 
 Explore the full implementation and documentation on GitHub: Coming Soon!
 [Repository](https://github.com/aki-seven)
 
-6:T435,
+6:T425,
 
 ## **Vulnerable Boot2Root Machine**
 
@@ -38,8 +38,89 @@ Designed and developed a **custom Boot2Root (B2R) machine** to simulate real-wor
 
 ### Source Code
 Explore the full implementation and documentation on GitHub:  Coming Soon!
-[Repository](https://github.com/aki-seven)0:{"buildId":"RgQiTaSmg6q5OyBS1Ko5H","rsc":["$","$1","c",{"children":[["$","$L2",null,{"maxWidth":"m","paddingTop":"24","children":[["$","$L3",null,{"id":"schema-webPage-/work","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"url\":\"https://aki-seven.github.io/work\",\"sameAs\":[],\"headline\":\"Projects – Akhilesh Singh Choudhary\",\"description\":\"Design and dev projects by Akhilesh Singh Choudhary\",\"image\":\"https://aki-seven.github.io/api/og/generate?title=Projects%20%E2%80%93%20Akhilesh%20Singh%20Choudhary\",\"author\":{\"@type\":\"Person\",\"name\":\"Akhilesh Singh Choudhary\",\"url\":\"https://aki-seven.github.io/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://aki-seven.github.io/images/avatar.jpg\"}}}"}}],["$","h1",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-l","style":{"textAlign":"center","textWrap":"balance"},"children":"Projects – Akhilesh Singh Choudhary"}],["$","$L2",null,{"fillWidth":true,"gap":"xl","marginBottom":"40","paddingX":"l","children":[["$","$L4","initial-access-intelligence",{"priority":true,"href":"/work/initial-access-intelligence","images":["//\"/images/projects/project-01/cover-02.jpg\""],"title":"IA-Intel: Intelligent Automated Enumeration Engine","description":"A modular, intelligence-driven penetration testing engine that automates service enumeration, validates findings, and generates prioritized attack paths.","content":"$5","avatars":[{"src":"/images/avatar.jpg"}],"link":""}],["$","$L4","vulnerable-boot2root-machine",{"priority":true,"href":"/work/vulnerable-boot2root-machine","images":["//\"/images/projects/project-01/cover-02.jpg\""],"title":"Vulnerable Boot2Root Machine","description":"A B2R machine implemented to teach enumeration & ssrf basics as well as exploiting linux binaries to get out of a restricted shell.","content":"$6","avatars":[{"src":"/images/avatar.jpg"}],"link":""}],"$L7","$L8"]}]]}],null,"$L9"]}],"loading":null,"isPartial":false}
-7:["$","$L4","multi-algorithm-cli-hashing-tool",{"priority":false,"href":"/work/multi-algorithm-cli-hashing-tool","images":["//\"/images/projects/project-01/cover-02.jpg\""],"title":"Multi-Algorithm CLI Hashing Tool","description":"A Python command-line utility supporting multiple hashing algorithms including SHA3-256, Argon2, bcrypt, MD5, and BLAKE3.","content":"\r\n\r\n## **Multi-Algorithm CLI Hashing Tool**\r\n\r\nDeveloped a **Python command-line utility** that supports multiple hashing algorithms including **SHA3-256, Argon2, bcrypt, MD5, and BLAKE3** for secure hashing of files and user input.\r\n\r\n- Designed to demonstrate the differences between **legacy and modern hashing techniques**, highlighting their role in **password security and data protection**.  \r\n- Implemented a **modular algorithm selection system**, allowing flexible switching between hashing methods through a single interface.  \r\n- Enabled hashing for both **text input and files**, making the tool practical for testing and learning real-world use cases.  \r\n- Focused on writing **clean, extensible code** to support easy addition of new algorithms.\r\n\r\n> Focus: **Cryptography fundamentals · Secure hashing · Practical CLI tooling**\r\n\r\n\r\n### Source Code\r\nExplore the full implementation and documentation on GitHub:  [Repository](https://github.com/aki-seven/Hash3r)","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]
-8:["$","$L4","python-security-toolkit",{"priority":false,"href":"/work/python-security-toolkit","images":["//\"/images/projects/project-01/cover-02.jpg\""],"title":"Python Security Toolkit","description":"A collection of Python-based security tools simulating offensive security techniques, including a reverse shell and network attack simulations.","content":"\r\n\r\n## **Python Security Toolkit**\r\n\r\nDeveloped a collection of **Python-based security tools** to simulate and analyze real-world cyber attack scenarios within a **controlled lab environment**.\r\n\r\n- Built scripts to simulate common network attack techniques such as **traffic interception, device discovery, and packet analysis**, helping understand how systems can be exploited.\r\n- Utilized **Scapy** for low-level packet crafting and inspection, enabling hands-on exploration of how data flows across networks.\r\n- Created a **basic reverse shell** for controlled remote command execution during testing scenarios.\r\n- Implemented simple **traffic analysis logic** to identify unusual or suspicious network behavior during simulations.\r\n\r\n> Focus: **Cybersecurity fundamentals · Network behavior · Practical attack simulation**\r\n\r\n\r\n### Source Code\r\nExplore the full implementation and documentation on GitHub:  [Repository](https://github.com/aki-seven/python-scripts)","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]
-9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
-c:null
+[Repository](https://github.com/aki-seven)0:{"buildId":"EPSqXv66IKQSODn0l_uSm","rsc":["$","$1","c",{"children":[["$","$L2",null,{"maxWidth":"m","paddingTop":"24","children":[["$","$L3",null,{"id":"schema-webPage-/work","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"url\":\"https://aki-seven.github.io/work\",\"sameAs\":[],\"headline\":\"Projects – Akhilesh Singh Choudhary\",\"description\":\"Design and dev projects by Akhilesh Singh Choudhary\",\"image\":\"https://aki-seven.github.io/api/og/generate?title=Projects%20%E2%80%93%20Akhilesh%20Singh%20Choudhary\",\"author\":{\"@type\":\"Person\",\"name\":\"Akhilesh Singh Choudhary\",\"url\":\"https://aki-seven.github.io/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://aki-seven.github.io/images/avatar.jpg\"}}}"}}],["$","h1",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-l","style":{"textAlign":"center","textWrap":"balance"},"children":"Projects – Akhilesh Singh Choudhary"}],["$","$L2",null,{"fillWidth":true,"gap":"xl","marginBottom":"40","paddingX":"l","children":[["$","$L4","initial-access-intelligence",{"priority":true,"href":"/work/initial-access-intelligence","images":["/images/fix.png"],"title":"IA-Intel: Intelligent Automated Enumeration Engine","description":"A modular, intelligence-driven penetration testing engine that automates service enumeration, validates findings, and generates prioritized attack paths.","content":"$5","avatars":[{"src":"/images/avatar.jpg"}],"link":""}],["$","$L4","vulnerable-boot2root-machine",{"priority":true,"href":"/work/vulnerable-boot2root-machine","images":["/images/fix.png"],"title":"Vulnerable Boot2Root Machine","description":"A B2R machine implemented to teach enumeration & ssrf basics as well as exploiting linux binaries to get out of a restricted shell.","content":"$6","avatars":[{"src":"/images/avatar.jpg"}],"link":""}],"$L7","$L8"]}]]}],null,"$L9"]}],"loading":null,"isPartial":false}
+7:["$","$L4","multi-algorithm-cli-hashing-tool",{"priority":false,"href":"/work/multi-algorithm-cli-hashing-tool","images":["/images/projects/project-02/1.png","/images/projects/project-02/2.png"],"title":"Multi-Algorithm CLI Hashing Tool","description":"A Python command-line utility supporting multiple hashing algorithms including SHA3-256, Argon2, bcrypt, MD5, and BLAKE3.","content":"\n\n## **Multi-Algorithm CLI Hashing Tool**\n\nDeveloped a **Python command-line utility** that supports multiple hashing algorithms including **SHA3-256, Argon2, bcrypt, MD5, and BLAKE3** for secure hashing of files and user input.\n\n- Designed to demonstrate the differences between **legacy and modern hashing techniques**, highlighting their role in **password security and data protection**.  \n- Implemented a **modular algorithm selection system**, allowing flexible switching between hashing methods through a single interface.  \n- Enabled hashing for both **text input and files**, making the tool practical for testing and learning real-world use cases.  \n- Focused on writing **clean, extensible code** to support easy addition of new algorithms.\n\n> Focus: **Cryptography fundamentals · Secure hashing · Practical CLI tooling**\n\n\n### Source Code\nExplore the full implementation and documentation on GitHub:  [Repository](https://github.com/aki-seven/Hash3r)","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]
+a:T91a,
+
+## **Python Security Toolkit**
+
+Developed a collection of **Python-based security tools** to simulate and analyze real-world cyber attack scenarios within a **controlled lab environment**.
+
+- Built scripts to simulate common network attack techniques such as **traffic interception, device discovery, and packet analysis**, helping understand how systems can be exploited.
+- Utilized **Scapy** for low-level packet crafting and inspection, enabling hands-on exploration of how data flows across networks.
+- Created a **basic reverse shell** for controlled remote command execution during testing scenarios.
+- Implemented simple **traffic analysis logic** to identify unusual or suspicious network behavior during simulations.
+
+> Focus: **Cybersecurity fundamentals · Network behavior · Practical attack simulation**
+
+
+### Source Code
+Explore the full implementation and documentation on GitHub:  [Repository](https://github.com/aki-seven/python-scripts)
+
+<div
+  style={{
+    display: "flex",
+    gap: "1rem",
+  }}
+>
+  <div
+    style={{
+      flex: 1,
+      aspectRatio: "16/9",
+      overflowY: "auto",
+      borderRadius: "var(--radius-m)",
+      border: "1px solid var(--neutral-alpha-medium)",
+      scrollbarWidth: "none",
+      msOverflowStyle: "none",
+    }}
+    className="hide-scrollbar"
+  >
+    <img
+      src="/images/projects/project-01/keylogger.png"
+      alt="Keylogger output"
+      style={{ width: "100%", display: "block" }}
+    />
+  </div>
+
+  <div
+    style={{
+      flex: 1,
+      aspectRatio: "16/9",
+      overflowY: "auto",
+      borderRadius: "var(--radius-m)",
+      border: "1px solid var(--neutral-alpha-medium)",
+      scrollbarWidth: "none",
+      msOverflowStyle: "none",
+    }}
+    className="hide-scrollbar"
+  >
+    <img
+      src="/images/projects/project-01/mac_changer.png"
+      alt="MAC changer"
+      style={{ width: "100%", display: "block" }}
+    />
+  </div>
+</div>
+
+<div
+  style={{
+    marginTop: "1rem",
+    aspectRatio: "16/9",
+    overflowY: "auto",
+    borderRadius: "var(--radius-m)",
+    border: "1px solid var(--neutral-alpha-medium)",
+    scrollbarWidth: "none",
+    msOverflowStyle: "none",
+  }}
+  className="hide-scrollbar"
+>
+  <img
+    src="/images/projects/project-01/packet_sniffer.png"
+    alt="Packet sniffer"
+    style={{ width: "100%", display: "block" }}
+  />
+</div>
+
+8:["$","$L4","python-security-toolkit",{"priority":false,"href":"/work/python-security-toolkit","images":["/images/projects/project-01/1.png","/images/projects/project-01/2.png"],"title":"Python Security Toolkit","description":"A collection of Python-based security tools simulating offensive security techniques, including a reverse shell and network attack simulations.","content":"$a","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]
+9:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null
