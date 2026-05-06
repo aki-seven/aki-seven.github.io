@@ -4,7 +4,7 @@
 5:I[273323,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Column"]
 6:I[479520,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],""]
 7:I[474855,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"ProjectCard"]
-e:I[168027,[],"default"]
+d:I[168027,[],"default"]
 :HL["/_next/static/chunks/93ac2d54f71ec8d4.css","style"]
 :HL["/_next/static/chunks/d20e0f0702cef329.css","style"]
 :HL["/_next/static/chunks/d588c598996efe03.css","style"]
@@ -12,25 +12,7 @@ e:I[168027,[],"default"]
 :HL["/_next/static/chunks/b3a7f4834154c9dc.css","style"]
 :HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-8:T41a,
-
-## **IA-Intel: Intelligent Automated Enumeration Engine**
-
-Developed a collection of **Python-based, configuration-driven security tools** to automate reconnaissance and service enumeration within a **black-box penetration testing environment**.
-
-* Built a **phased execution engine** to orchestrate port scanning, service detection, and background enumeration in a structured pipeline.
-* Utilized **Nmap and modular tool integrations (smbmap, enum4linux, Hydra, etc.)** for deep service-level analysis and validation.
-* Created a **service-context model** to isolate and manage intelligence per port, enabling scalable and parallel enumeration.
-* Implemented an **evidence-based validation system** to convert raw tool outputs into confirmed findings with confidence and severity scoring for faster enumeration.
-
-> Focus: **Automation · Cybersecurity · Enumeration · Intelligence Analysis · System Design**
-
-
-### Source Code
-Explore the full implementation and documentation on GitHub: Coming Soon!
-[Repository](https://github.com/aki-seven)
-
-0:{"P":null,"b":"EPSqXv66IKQSODn0l_uSm","c":["","work"],"q":"","i":false,"f":[[["",{"children":["work",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/93ac2d54f71ec8d4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/d20e0f0702cef329.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/d588c598996efe03.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/eef662fdc50843a7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/b3a7f4834154c9dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/866d8f632fb602af.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/8a07e6fd7e614a7b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/93ec8c0081dfd305.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/e14f262a58820f67.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/2079049d5abbbd3d.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","$L5",null,{"maxWidth":"m","paddingTop":"24","children":[["$","$L6",null,{"id":"schema-webPage-/work","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"url\":\"https://aki-seven.github.io/work\",\"sameAs\":[],\"headline\":\"Projects – Akhilesh Singh Choudhary\",\"description\":\"Design and dev projects by Akhilesh Singh Choudhary\",\"image\":\"https://aki-seven.github.io/api/og/generate?title=Projects%20%E2%80%93%20Akhilesh%20Singh%20Choudhary\",\"author\":{\"@type\":\"Person\",\"name\":\"Akhilesh Singh Choudhary\",\"url\":\"https://aki-seven.github.io/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://aki-seven.github.io/images/avatar.jpg\"}}}"}}],["$","h1",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-l","style":{"textAlign":"center","textWrap":"balance"},"children":"Projects – Akhilesh Singh Choudhary"}],["$","$L5",null,{"fillWidth":true,"gap":"xl","marginBottom":"40","paddingX":"l","children":[["$","$L7","initial-access-intelligence",{"priority":true,"href":"/work/initial-access-intelligence","images":["/images/fix.png"],"title":"IA-Intel: Intelligent Automated Enumeration Engine","description":"A modular, intelligence-driven penetration testing engine that automates service enumeration, validates findings, and generates prioritized attack paths.","content":"$8","avatars":[{"src":"/images/avatar.jpg"}],"link":""}],"$L9","$La","$Lb"]}]]}],null,"$Lc"]}],{},null,false,false]},null,false,false]},null,false,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"S":true}
+0:{"P":null,"b":"ISYRq2qUVwgl9l25ijoKb","c":["","work"],"q":"","i":false,"f":[[["",{"children":["work",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/93ac2d54f71ec8d4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/d20e0f0702cef329.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/d588c598996efe03.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/eef662fdc50843a7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/b3a7f4834154c9dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/866d8f632fb602af.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/8a07e6fd7e614a7b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/93ec8c0081dfd305.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/e14f262a58820f67.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/2079049d5abbbd3d.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","$L5",null,{"maxWidth":"m","paddingTop":"24","children":[["$","$L6",null,{"id":"schema-webPage-/work","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"url\":\"https://aki-seven.github.io/work\",\"sameAs\":[],\"headline\":\"Projects – Akhilesh Singh Choudhary\",\"description\":\"Design and dev projects by Akhilesh Singh Choudhary\",\"image\":\"https://aki-seven.github.io/api/og/generate?title=Projects%20%E2%80%93%20Akhilesh%20Singh%20Choudhary\",\"author\":{\"@type\":\"Person\",\"name\":\"Akhilesh Singh Choudhary\",\"url\":\"https://aki-seven.github.io/about\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://aki-seven.github.io/images/avatar.jpg\"}}}"}}],["$","h1",null,{"className":"font-heading font-strong font-xl neutral-on-background-strong mb-l","style":{"textAlign":"center","textWrap":"balance"},"children":"Projects – Akhilesh Singh Choudhary"}],["$","$L5",null,{"fillWidth":true,"gap":"xl","marginBottom":"40","paddingX":"l","children":[["$","$L7","multi-algorithm-cli-hashing-tool",{"priority":true,"href":"/work/multi-algorithm-cli-hashing-tool","images":["/images/projects/project-02/1.png","/images/projects/project-02/2.png"],"title":"Multi-Algorithm CLI Hashing Tool","description":"A Python command-line utility supporting multiple hashing algorithms including SHA3-256, Argon2, bcrypt, MD5, and BLAKE3.","content":"\n\n## **Multi-Algorithm CLI Hashing Tool**\n\nDeveloped a **Python command-line utility** that supports multiple hashing algorithms including **SHA3-256, Argon2, bcrypt, MD5, and BLAKE3** for secure hashing of files and user input.\n\n- Designed to demonstrate the differences between **legacy and modern hashing techniques**, highlighting their role in **password security and data protection**.  \n- Implemented a **modular algorithm selection system**, allowing flexible switching between hashing methods through a single interface.  \n- Enabled hashing for both **text input and files**, making the tool practical for testing and learning real-world use cases.  \n- Focused on writing **clean, extensible code** to support easy addition of new algorithms.\n\n> Focus: **Cryptography fundamentals · Secure hashing · Practical CLI tooling**\n\n\n### Source Code\nExplore the full implementation and documentation on GitHub:  [Repository](https://github.com/aki-seven/Hash3r)","avatars":[{"src":"/images/avatar.jpg"}],"link":""}],"$L8","$L9","$La"]}]]}],null,"$Lb"]}],{},null,false,false]},null,false,false]},null,false,false],"$Lc",false]],"m":"$undefined","G":["$d",[]],"S":true}
 11:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
 12:"$Sreact.suspense"
 14:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"ViewportBoundary"]
@@ -41,25 +23,7 @@ Explore the full implementation and documentation on GitHub: Coming Soon!
 1c:I[394412,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Background"]
 1d:I[521247,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"ClientFlex"]
 1e:I[402971,["/_next/static/chunks/866d8f632fb602af.js","/_next/static/chunks/8a07e6fd7e614a7b.js","/_next/static/chunks/93ec8c0081dfd305.js","/_next/static/chunks/e14f262a58820f67.js","/_next/static/chunks/2079049d5abbbd3d.js"],"Header"]
-f:T425,
-
-## **Vulnerable Boot2Root Machine**
-
-Designed and developed a **custom Boot2Root (B2R) machine** to simulate real-world attack scenarios, focusing on **initial access, enumeration, and privilege escalation** within a controlled lab environment.
-
-- Crafted a vulnerable environment to practice **system enumeration and service discovery**, guiding users through identifying attack surfaces.
-- Implemented an **SSRF (Server-Side Request Forgery) vulnerability** to demonstrate how internal services can be accessed and exploited.
-- Designed restricted shell conditions requiring exploitation of **Linux binaries and misconfigurations** to achieve privilege escalation.
-- Structured the machine as a guided learning experience, reinforcing practical understanding of **attack chains from initial access to root compromise**.
-
-> Focus: **Enumeration · SSRF exploitation · Linux privilege escalation · Boot2Root methodology**
-
-
-### Source Code
-Explore the full implementation and documentation on GitHub:  Coming Soon!
-[Repository](https://github.com/aki-seven)9:["$","$L7","vulnerable-boot2root-machine",{"priority":true,"href":"/work/vulnerable-boot2root-machine","images":["/images/fix.png"],"title":"Vulnerable Boot2Root Machine","description":"A B2R machine implemented to teach enumeration & ssrf basics as well as exploiting linux binaries to get out of a restricted shell.","content":"$f","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]
-a:["$","$L7","multi-algorithm-cli-hashing-tool",{"priority":false,"href":"/work/multi-algorithm-cli-hashing-tool","images":["/images/projects/project-02/1.png","/images/projects/project-02/2.png"],"title":"Multi-Algorithm CLI Hashing Tool","description":"A Python command-line utility supporting multiple hashing algorithms including SHA3-256, Argon2, bcrypt, MD5, and BLAKE3.","content":"\n\n## **Multi-Algorithm CLI Hashing Tool**\n\nDeveloped a **Python command-line utility** that supports multiple hashing algorithms including **SHA3-256, Argon2, bcrypt, MD5, and BLAKE3** for secure hashing of files and user input.\n\n- Designed to demonstrate the differences between **legacy and modern hashing techniques**, highlighting their role in **password security and data protection**.  \n- Implemented a **modular algorithm selection system**, allowing flexible switching between hashing methods through a single interface.  \n- Enabled hashing for both **text input and files**, making the tool practical for testing and learning real-world use cases.  \n- Focused on writing **clean, extensible code** to support easy addition of new algorithms.\n\n> Focus: **Cryptography fundamentals · Secure hashing · Practical CLI tooling**\n\n\n### Source Code\nExplore the full implementation and documentation on GitHub:  [Repository](https://github.com/aki-seven/Hash3r)","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]
-10:T91a,
+e:T91a,
 
 ## **Python Security Toolkit**
 
@@ -140,9 +104,45 @@ Explore the full implementation and documentation on GitHub:  [Repository](https
   />
 </div>
 
-b:["$","$L7","python-security-toolkit",{"priority":false,"href":"/work/python-security-toolkit","images":["/images/projects/project-01/1.png","/images/projects/project-01/2.png"],"title":"Python Security Toolkit","description":"A collection of Python-based security tools simulating offensive security techniques, including a reverse shell and network attack simulations.","content":"$10","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]
-c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
-d:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+8:["$","$L7","python-security-toolkit",{"priority":true,"href":"/work/python-security-toolkit","images":["/images/projects/project-01/1.png","/images/projects/project-01/2.png"],"title":"Python Security Toolkit","description":"A collection of Python-based security tools simulating offensive security techniques, including a reverse shell and network attack simulations.","content":"$e","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]
+f:T41a,
+
+## **IA-Intel: Intelligent Automated Enumeration Engine**
+
+Developed a collection of **Python-based, configuration-driven security tools** to automate reconnaissance and service enumeration within a **black-box penetration testing environment**.
+
+* Built a **phased execution engine** to orchestrate port scanning, service detection, and background enumeration in a structured pipeline.
+* Utilized **Nmap and modular tool integrations (smbmap, enum4linux, Hydra, etc.)** for deep service-level analysis and validation.
+* Created a **service-context model** to isolate and manage intelligence per port, enabling scalable and parallel enumeration.
+* Implemented an **evidence-based validation system** to convert raw tool outputs into confirmed findings with confidence and severity scoring for faster enumeration.
+
+> Focus: **Automation · Cybersecurity · Enumeration · Intelligence Analysis · System Design**
+
+
+### Source Code
+Explore the full implementation and documentation on GitHub: Coming Soon!
+[Repository](https://github.com/aki-seven)
+
+9:["$","$L7","initial-access-intelligence",{"priority":false,"href":"/work/initial-access-intelligence","images":["/images/fix.png"],"title":"IA-Intel: Intelligent Automated Enumeration Engine","description":"A modular, intelligence-driven penetration testing engine that automates service enumeration, validates findings, and generates prioritized attack paths.","content":"$f","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]
+10:T425,
+
+## **Vulnerable Boot2Root Machine**
+
+Designed and developed a **custom Boot2Root (B2R) machine** to simulate real-world attack scenarios, focusing on **initial access, enumeration, and privilege escalation** within a controlled lab environment.
+
+- Crafted a vulnerable environment to practice **system enumeration and service discovery**, guiding users through identifying attack surfaces.
+- Implemented an **SSRF (Server-Side Request Forgery) vulnerability** to demonstrate how internal services can be accessed and exploited.
+- Designed restricted shell conditions requiring exploitation of **Linux binaries and misconfigurations** to achieve privilege escalation.
+- Structured the machine as a guided learning experience, reinforcing practical understanding of **attack chains from initial access to root compromise**.
+
+> Focus: **Enumeration · SSRF exploitation · Linux privilege escalation · Boot2Root methodology**
+
+
+### Source Code
+Explore the full implementation and documentation on GitHub:  Coming Soon!
+[Repository](https://github.com/aki-seven)a:["$","$L7","vulnerable-boot2root-machine",{"priority":false,"href":"/work/vulnerable-boot2root-machine","images":["/images/fix.png"],"title":"Vulnerable Boot2Root Machine","description":"A B2R machine implemented to teach enumeration & ssrf basics as well as exploiting linux binaries to get out of a restricted shell.","content":"$10","avatars":[{"src":"/images/avatar.jpg"}],"link":""}]
+b:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+c:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 18:T6c2,(function() {
               try {
                 const root = document.documentElement;
